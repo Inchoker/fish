@@ -1,0 +1,25 @@
+img{
+    height:300px;
+    width: auto;
+    max-width:100%;
+}
+li{
+    border-style: groove;
+    list-style-type: none;
+}
+p{
+    border-style: groove;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+.duration{
+    height: 300px;
+}
+ul{
+    padding-inline-start: 0px;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+table{
+    border-spacing: 0px;
+}
